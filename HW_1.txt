@@ -96,10 +96,10 @@ git push --set-upstream origin CheckLists
 
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
 
-На интерфейсе гитхаба нажалала:
+На интерфейсе гитхаба нажала:
 	Compare & Pull request -> Create pull request
 	->Merge pull request -> Congfirm Merge
 
 10. Синхронизировать Внешнюю и Локальную ветки Main
 
-git rebase main
+git push
