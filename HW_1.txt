@@ -39,7 +39,7 @@ i
 ***********************************************************************************************************************
 *  №  *  Summary   *  Description    *  Steps to reproduce  *  Environment *  Reproducibility  *  Severity * Priority *
 ***********************************************************************************************************************
-*     *            *                 *                      *			   *                   *           *          *
+*     *            *                 *                      *	           *                   *           *          *
 *     *            *                 *                      *              *                   *           *          *
 *     *            *                 *                      *              *                   *           *          *
 ***********************************************************************************************************************
@@ -74,14 +74,14 @@ vim CheckList.txt
 i
 
 ******************************************************
-*        Test Readiness Review			*	Status   *		
+*        Test Readiness Review	      *	   Status    *		
 ******************************************************
-* All the Requirements finalized		*	Done	 *
-* Test Plan created and reviewed	  	*	Done	 *
-* Test Cases preparation done			*	Done	 *
-* Test Case review and sign off			*	Done	 *
-* Test Data availability				*	Done	 *
-* Smoke Testing							*	Done	 *
+* All the Requirements finalized      *	   Done      *
+* Test Plan created and reviewed      *	   Done	     *
+* Test Cases preparation done	      *	   Done	     *
+* Test Case review and sign off	      *	   Done	     *
+* Test Data availability	      *	   Done	     *
+* Smoke Testing			      *	   Done	     *
 ******************************************************
 
 Esc
