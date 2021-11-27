@@ -19,13 +19,7 @@ git branch Mobile_testing
 
 2. Запушить все ветки на внешний репозиторий
 -----------------------------------
-git push -u origin Postman
-git push -u origin Jmeter
-git push -u origin CheckLists
-git push -u origin BugReports
-git push -u origin SQL
-git push -u origin Charles
-git push -u origin Mobile_testing
+git push origin --all
 -----------------------------------
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
 
@@ -96,10 +90,10 @@ git push --set-upstream origin CheckLists
 
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
 
-На интерфейсе гитхаба нажалала:
+На интерфейсе гитхаба:
 	Compare & Pull request -> Create pull request
 	->Merge pull request -> Congfirm Merge
 
 10. Синхронизировать Внешнюю и Локальную ветки Main
 
-git rebase main
+git pull
