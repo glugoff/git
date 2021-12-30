@@ -108,3 +108,7 @@ git push --set-upstream origin CheckLists
 ```
 git pull
 ```
+
+
+-------
+Ссылка на задание 2: https://github.com/ping335/git_2
